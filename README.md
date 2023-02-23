@@ -40,7 +40,7 @@
 <center><a href="https://drive.google.com/uc?export=view&id=141SQoalVU09eypOj5XNzrxl5NtNbxuaG">
     <img src="https://drive.google.com/uc?export=view&id=141SQoalVU09eypOj5XNzrxl5NtNbxuaG"
     style="width: 500px; max-width: 100%; height: auto"
-    title="Hacktoberfest 2022 Badges" />
+    title="Hacktoberfest 2022 Badges(click to view)" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwikganguly&show_icons=true&locale=en" alt="ritwikganguly" /></p>
 
