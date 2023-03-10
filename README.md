@@ -8,7 +8,7 @@
 
 - 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project)
 
-- 🌱 I’m currently learning **Deep Learning(Tensorflow/keres/pytourch), Multiple ML Algos**
+- 🌱 I’m currently learning **Deep Learning(Tensorflow/keres/pytorch), Multiple ML Algos**
 
 - 👯 I Have Done Many Data Analysis mini Project [Available on This GitHub](https://github.com/RitwikGanguly/Data_Analysis_Ritwik)
 
@@ -25,7 +25,7 @@
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/ritwik-ganguly-148aa2203" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritwikganguly003/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
 <a href="https://kaggle.com/ritwikganguly" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="ritwikganguly" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ritwik_003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritwik_003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gangulyritwik201" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="gangulyritwik201" height="30" width="40" /></a>
