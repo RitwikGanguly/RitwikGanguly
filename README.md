@@ -8,6 +8,8 @@
 
 - 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project)
 
+- 🎁 I Have Done The Project [Attendance Taking Through Face Recognition](https://github.com/RitwikGanguly/Attandance-Taking-Face_Recog-)
+
 - 🌱 I’m currently learning **Deep Learning(Tensorflow/keres/pytorch), Multiple ML Algos**
 
 - 👯 I Have Done Many Data Analysis mini Project [Available on This GitHub](https://github.com/RitwikGanguly/Data_Analysis_Ritwik)
