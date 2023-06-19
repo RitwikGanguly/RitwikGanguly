@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikganguly&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikganguly" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikganguly" alt="ritwikganguly" /></a> </p>
+
 - 🤖 I Have Done The Project [Healthcare Chatbot](https://github.com/RitwikGanguly/Healthcare-Chatbot)
 
 - 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project)
@@ -29,6 +30,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ritwikganguly003/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
+<a href="https://medium.com/@gangulyritwik2003" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="ritwik-ganguly-148aa2203" height="30" width="40" /></a>
 <a href="https://kaggle.com/ritwikganguly" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="ritwikganguly" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ritwik_003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritwik_003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gangulyritwik201" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="gangulyritwik201" height="30" width="40" /></a>
