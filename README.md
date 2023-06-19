@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikganguly&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikganguly" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikganguly" alt="ritwikganguly" /></a> </p>
+- 🤖 I Have Done The Project [Healthcare Chatbot](https://github.com/RitwikGanguly/Healthcare-Chatbot)
 
 - 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project)
 
@@ -14,7 +15,7 @@
 
 - 👯 I Have Done Many Data Analysis mini Project [Available on This GitHub](https://github.com/RitwikGanguly/Data_Analysis_Ritwik)
 
-- 🤖 Some Webscraping Mini Projects [Available on GitHub](https://github.com/RitwikGanguly/Flipkart_web_Scriping)
+- 📩 Some Webscraping Mini Projects [Available on GitHub](https://github.com/RitwikGanguly/Flipkart_web_Scriping)
 
 - 👨‍💻 Participated in Google Cloud Ready Facilitator Program [GCP](https://www.cloudskillsboost.google/public_profiles/09d6bb50-16a4-4af2-8c67-9ea32c87d37c)
 
