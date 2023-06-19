@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwikganguly" alt="ritwikganguly" /></a> </p>
 
-- 🤖 I Have Done The Project [Healthcare Chatbot](https://github.com/RitwikGanguly/Healthcare-Chatbot)
+- 🤖 I Have Done The Project [Healthcare Chatbot](https://github.com/RitwikGanguly/Healthcare-Chatbot) project.
 
-- 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project)
+- 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project) project.
 
-- 🎁 I Have Done The Project [Attendance Taking Through Face Recognition](https://github.com/RitwikGanguly/Attandance-Taking-Face_Recog-)
+- 🎁 I Have Done The Project [Attendance Taking Through Face Recognition](https://github.com/RitwikGanguly/Attandance-Taking-Face_Recog-) project.
 
 - 🌱 I’m currently learning **Deep Learning(Tensorflow/keres/pytorch), Multiple ML Algos**
 
