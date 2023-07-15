@@ -22,7 +22,7 @@
   
 - 🚀 Have a look into my **Machine Learning** Repository at [Machine Learning Repo](https://github.com/RitwikGanguly/Machine-Learning-Ritwik)
 
-- 💀 Hidden Treasure Different NN's(CNN, ANN, GAN etc) and Deep Learning Concept [Deep Learning Repo](https://github.com/RitwikGanguly/Deep-Learning-Ritwik)
+- 💀 Hidden Treasure **Different NN's(CNN, ANN, GAN etc)** and **Deep Learning Concept** [Deep Learning Repo](https://github.com/RitwikGanguly/Deep-Learning-Ritwik)
 
 - 👨‍💻 Participated in Google Cloud Ready Facilitator Program [GCP](https://www.cloudskillsboost.google/public_profiles/09d6bb50-16a4-4af2-8c67-9ea32c87d37c)
 
