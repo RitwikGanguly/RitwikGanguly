@@ -11,6 +11,8 @@
 - 🔭 I Have Done The Project [Virtual Mouse](https://github.com/RitwikGanguly/Virtual-Mouse-Project) project.
 
 - 🎁 I Have Done The Project [Attendance Taking Through Face Recognition](https://github.com/RitwikGanguly/Attandance-Taking-Face_Recog-) project.
+  
+- 🦹‍♀️ I am trying to find out the hidden mystery of **Neural Network(NN)**, and eager to over step in **Deep Learning**.
 
 - 🌱 I’m very much fascinated to smell the **Aroma of ML**, currently learning and exploring **NLP**.
 
@@ -18,7 +20,9 @@
 
 - 📩 Kindly look into my **NLP repository** for more clarity in theory and code at [NLP Repo](https://github.com/RitwikGanguly/Natural-Language-Processing-NLP-)
   
-- 🚀 Have a look into my Machine Learning Repository at [Machine Learning Repo](https://github.com/RitwikGanguly/Machine-Learning-Ritwik)
+- 🚀 Have a look into my **Machine Learning** Repository at [Machine Learning Repo](https://github.com/RitwikGanguly/Machine-Learning-Ritwik)
+
+- 💀 Hidden Treasure Different NN's(CNN, ANN, GAN etc) and Deep Learning Concept [Deep Learning Repo](https://github.com/RitwikGanguly/Deep-Learning-Ritwik)
 
 - 👨‍💻 Participated in Google Cloud Ready Facilitator Program [GCP](https://www.cloudskillsboost.google/public_profiles/09d6bb50-16a4-4af2-8c67-9ea32c87d37c)
 
