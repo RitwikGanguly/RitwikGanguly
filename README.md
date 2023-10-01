@@ -50,3 +50,5 @@
 **I have also participated in hacktoberfest 2022---->** [Hacktoberfest Badges(Click to View)](https://drive.google.com/uc?export=view&id=141SQoalVU09eypOj5XNzrxl5NtNbxuaG)
 
 ![Ritwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitwikGanguly&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitwikGanguly&hide_progress=false&theme=radical)
