@@ -49,6 +49,4 @@
 
 **I have also participated in hacktoberfest 2022---->** [Hacktoberfest Badges(Click to View)](https://drive.google.com/uc?export=view&id=141SQoalVU09eypOj5XNzrxl5NtNbxuaG)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwikganguly&show_icons=true&locale=en" alt="ritwikganguly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwikganguly&" alt="ritwikganguly" /></p>
+![Ritwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitwikGanguly)
